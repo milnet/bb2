@@ -1,4 +1,7 @@
 bb2
 ===
 
-Tools for Bubble Blust game, including solver, level generatos and game algorithms.
+Tootls for Buble Blast 2 game:
+  - BB2 solver
+  - BB2 level generatos
+  - BB2 game
